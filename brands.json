@@ -1,0 +1,18 @@
+[
+    {"brand": "Coke", "price": 12, "producer": "Coca-Cola", "category": "sparkling"},
+    {"brand": "Fanta", "price": 12, "producer": "Coca-Cola", "category": "sparkling"},
+    {"brand": "Sprite", "price": 12, "producer": "Coca-Cola", "category": "sparkling"},
+    {"brand": "Fuze Tea", "price": 13, "producer": "Coca-Cola", "category": "iced tea"},
+    {"brand": "Minute Maid", "price": 8, "producer": "Coca-Cola", "category": "juice"},
+    {"brand": "Kinley", "price": 6, "producer": "Coca-Cola", "category": "water"},
+
+    {"brand": "Pepsi", "price": 10, "producer": "PepsiCo", "category": "sparkling"},
+    {"brand": "Mountain Dew", "price": 10, "producer": "PepsiCo", "category": "sparkling"},
+    {"brand": "7 Up", "price": 10, "producer": "PepsiCo", "category": "sparkling"},
+    {"brand": "Mirinda", "price": 11, "producer": "PepsiCo", "category": "sparkling"},
+    {"brand": "Lipton Tea", "price": 12, "producer": "PepsiCo", "category": "iced tea"},
+    {"brand": "Aquafina", "price": 5, "producer": "PepsiCo", "category": "water"},
+
+    {"brand": "Nestea", "price": 12, "producer": "Nestle", "category": "iced tea"},
+    {"brand": "Ice Mountain", "price": 7, "producer": "Nestle", "category": "water"}
+]
