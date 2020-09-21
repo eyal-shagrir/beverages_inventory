@@ -81,7 +81,7 @@ For any more details run:
 
     python simulator.py -h
 
-<br/><br/>
+<br/>
 
 ### User interface
 
